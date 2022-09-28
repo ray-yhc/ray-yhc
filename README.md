@@ -25,7 +25,11 @@
 ## Experience
 ### 라이징캠프 Rising Camp
 - 2022.07 ~ 2022.09 , 8 weeks
-
+- 유튜브 API 개발
+  - [API 명세서 접속링크](https://docs.google.com/spreadsheets/d/1yqgziC3jrzyfZjok6xawACSZG8ilzKt4TvEvLXUYSGI/edit#gid=1160839551)
+- 번개장터 API 
+  - [API 명세서 접속링크](https://docs.google.com/spreadsheets/d/1xFWkTea2nxwVpAfKPkQA3OhuB2xRzCOQD3YocloCrgI/edit?usp=sharing)
+  - [기획서 보드 접속링크](https://www.notion.so/softsquared/B-f746c78fa5c44506bb4144550e51d3ba)
 <p align="center">
 <img width="300" style="text-align: center;" alt="certificate" src="https://user-images.githubusercontent.com/61899645/192805982-cabad147-441f-4096-b4df-034d613bc2cc.png" >
 </p>
