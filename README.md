@@ -20,6 +20,21 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 </p>
+
+
+## Experience
+### 라이징캠프 Rising Camp
+- 2022.07 ~ 2022.09 , 8 weeks
+
+![rc_certificate](./img/certificate.png)
+
+### PoolC 전기전자공학부 프로그래밍 동아리
+- 2021.09 ~ 2021.12 , 4 months
+- [PoolC](https://poolc.org/)
+
+![poolc_profile](./img/poolc_profile.png)
+
+
 <!--
 **ray-yhc/ray-yhc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
