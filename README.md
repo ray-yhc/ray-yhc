@@ -26,13 +26,17 @@
 ### 라이징캠프 Rising Camp
 - 2022.07 ~ 2022.09 , 8 weeks
 
-![rc_certificate](./img/certificate.png)
+<p align="center">
+<img width="300" style="text-align: center;" alt="certificate" src="https://user-images.githubusercontent.com/61899645/192805982-cabad147-441f-4096-b4df-034d613bc2cc.png" >
+</p>
 
 ### PoolC 전기전자공학부 프로그래밍 동아리
 - 2021.09 ~ 2021.12 , 4 months
 - [PoolC](https://poolc.org/)
 
-![poolc_profile](./img/poolc_profile.png)
+<p align="center">
+<img width="300" style="text-align: center;"  alt="poolc_profile" src="https://user-images.githubusercontent.com/61899645/192806001-de059df5-5477-4993-887f-3b7a0d2ab5d2.png" >
+</p>
 
 
 <!--
