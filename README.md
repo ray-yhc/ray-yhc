@@ -4,7 +4,8 @@
 🌱 Electrical & Electronic Engineering at <a href="https://ee.yonsei.ac.kr/">Yonsei University, Seoul, Korea</a>
 
 ### I'm interseted in
-
+- Real-time video service
+- Server stability and maintainability
 
 
 ## Skills & Learning
@@ -31,7 +32,7 @@
 - 삼성전자 DX부문 주관
 - 2개월 간 알고리즘 강의, 코드배틀, pro 검정
 
-<img width="300" style="text-align: center;" alt="certificate" src="[https://user-images.githubusercontent.com/61899645/192805982-cabad147-441f-4096-b4df-034d613bc2cc.png](https://user-images.githubusercontent.com/61899645/225248533-bb51429a-b5c0-408b-b113-b90ae3faa27b.png)" >
+<img width="300" style="text-align: center;" alt="certificate" src="https://user-images.githubusercontent.com/61899645/225248533-bb51429a-b5c0-408b-b113-b90ae3faa27b.png" >
 </p>
 
 ### 라이징캠프 Rising Camp
