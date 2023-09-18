@@ -22,8 +22,10 @@
 </p>
 -->
 
-![image](https://github.com/ray-yhc/ray-yhc/assets/61899645/b053055c-f253-4360-83fb-2e5ff5c87bd4)
+![조윤호 이력서](https://github.com/ray-yhc/ray-yhc/assets/61899645/8d2530e6-0724-4bb0-a929-0c298ab51cf8)
 
+
+[조윤호_이력서.pdf](https://github.com/ray-yhc/ray-yhc/files/12644208/_.pdf)
 
 <!--
 **ray-yhc/ray-yhc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
