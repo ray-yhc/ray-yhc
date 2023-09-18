@@ -1,12 +1,8 @@
+<!--
 ## Hi I'm Ray 😆
 
 🌱 Physics at <a href="https://physicsyonsei.kr/">Yonsei University, Seoul, Korea</a> <br>
 🌱 Electrical & Electronic Engineering at <a href="https://ee.yonsei.ac.kr/">Yonsei University, Seoul, Korea</a>
-
-### I'm interseted in
-- Real-time video service
-- Server stability and maintainability
-
 
 ## Skills & Learning
 <p>
@@ -24,35 +20,9 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 </p>
+-->
 
-
-## Experience
-### 삼성전자 주관 23년 동계 대학생 S/W 알고리즘 역량강화 특강
-- 2023.01 ~ 2023.03
-- 삼성전자 DX부문 주관
-- 2개월 간 알고리즘 강의, 코드배틀, pro 검정
-
-<img width="300" style="text-align: center;" alt="certificate" src="https://user-images.githubusercontent.com/61899645/225248533-bb51429a-b5c0-408b-b113-b90ae3faa27b.png" >
-</p>
-
-### 라이징캠프 Rising Camp
-- 2022.07 ~ 2022.09 , 8 weeks
-- 유튜브 API 개발
-  - [API 명세서 접속링크](https://docs.google.com/spreadsheets/d/1yqgziC3jrzyfZjok6xawACSZG8ilzKt4TvEvLXUYSGI/edit#gid=1160839551)
-- 번개장터 API 
-  - [API 명세서 접속링크](https://docs.google.com/spreadsheets/d/1xFWkTea2nxwVpAfKPkQA3OhuB2xRzCOQD3YocloCrgI/edit?usp=sharing)
-  - [기획서 보드 접속링크](https://www.notion.so/softsquared/B-f746c78fa5c44506bb4144550e51d3ba)
-<p align="center">
-<img width="300" style="text-align: center;" alt="certificate" src="https://user-images.githubusercontent.com/61899645/192805982-cabad147-441f-4096-b4df-034d613bc2cc.png" >
-</p>
-
-### PoolC 전기전자공학부 프로그래밍 동아리
-- 2021.09 ~ 2021.12 , 4 months
-- [PoolC](https://poolc.org/)
-
-<p align="center">
-<img width="300" style="text-align: center;"  alt="poolc_profile" src="https://user-images.githubusercontent.com/61899645/192806001-de059df5-5477-4993-887f-3b7a0d2ab5d2.png" >
-</p>
+![image](https://github.com/ray-yhc/ray-yhc/assets/61899645/b053055c-f253-4360-83fb-2e5ff5c87bd4)
 
 
 <!--
